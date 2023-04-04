@@ -1,0 +1,73 @@
+﻿.p-b {
+    padding-bottom: 1.8rem;
+}
+
+.p-bs {
+    padding-bottom: 2.5rem;
+}
+
+.p-t {
+    padding-top: 1.8rem;
+}
+
+.m-b {
+    margin-bottom: 1.8rem;
+}
+
+.m-b-s {
+    margin-bottom: 1rem;
+}
+
+.m-b-ss {
+    margin-bottom: .6rem;
+}
+
+.m-t {
+    margin-top: 1.8rem;
+}
+
+.m-t-s {
+    margin-top: 1rem;
+}
+
+.m-r {
+    margin-right: .8rem;
+}
+
+.f-l {
+    float: left;
+}
+
+.ll {
+    background-color: #AF0171 !important;
+}
+
+.w-f {
+    display: block;
+    width: 100%;
+}
+
+.bg-p {
+    background-image: linear-gradient(#8E2DE2, #4A00E0);
+}
+
+.shadow-a {
+    box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
+}
+
+.scale-s {
+    transform: scale(0.9);
+}
+
+.scale-s-m {
+    transform: scale(0.6);
+}
+
+.up-s {
+    position: relative;
+    bottom: .1rem;
+}
+
+.text-c {
+    text-align: center;
+}
