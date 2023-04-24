@@ -68,7 +68,3 @@ The credentials for the admin are:<br>
 
 This project was created by [Vladimir Wolfgang Schmadlak] for [Developing Software Systems 2 (Assignment)].
 
-## 🍬 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
